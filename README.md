@@ -41,9 +41,6 @@ Explore alternative text cleaning and pre-processing techniques.
 Experiment with different machine learning algorithms (SVMs, Random Forests, etc.).
 Implement hyperparameter tuning for model optimization.
 Integrate the model into a movie recommendation system.
-License:
-
-Specify the open-source license used for your project (e.g., MIT License, Apache License 2.0).
 
 Contribution:
 
